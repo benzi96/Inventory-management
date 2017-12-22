@@ -1,0 +1,25 @@
+E:\cnpm\WindowsFormsApplication1\DTO\bin\Debug\DTO.dll
+E:\cnpm\WindowsFormsApplication1\DTO\bin\Debug\DTO.pdb
+E:\cnpm\WindowsFormsApplication1\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\WindowsFormsApplication1\DTO\obj\Debug\DTO.dll
+E:\cnpm\WindowsFormsApplication1\DTO\obj\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DTO\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DTO\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DTO\obj\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DTO\obj\Debug\DTO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\DTO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\DTO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\WindowsFormsApplication1\DTO\obj\Debug\DTO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\DTO\obj\Debug\DTO.pdb
+E:\cnpm\quanlikho\2\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\2\DTO\obj\Debug\DTO.dll
+E:\cnpm\quanlikho\2\DTO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\2\DTO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\2\DTO\obj\Debug\DTO.pdb
+C:\Users\hp\Desktop\2\DTO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\2\DTO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\2\DTO\obj\Debug\DTO.dll
+C:\Users\hp\Desktop\2\DTO\obj\Debug\DTO.pdb

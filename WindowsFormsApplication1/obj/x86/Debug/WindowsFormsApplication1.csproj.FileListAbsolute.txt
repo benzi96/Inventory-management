@@ -1,0 +1,89 @@
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\cnpm\quanlikho\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

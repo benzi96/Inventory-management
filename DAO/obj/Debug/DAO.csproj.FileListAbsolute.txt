@@ -1,0 +1,42 @@
+E:\cnpm\WindowsFormsApplication1\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\WindowsFormsApplication1\DAO\bin\Debug\DAO.dll
+E:\cnpm\WindowsFormsApplication1\DAO\bin\Debug\DAO.pdb
+E:\cnpm\WindowsFormsApplication1\DAO\bin\Debug\DTO.dll
+E:\cnpm\WindowsFormsApplication1\DAO\bin\Debug\DTO.pdb
+E:\cnpm\WindowsFormsApplication1\DAO\obj\Debug\DAO.dll
+E:\cnpm\WindowsFormsApplication1\DAO\obj\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\obj\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\obj\Debug\DAO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\obj\Debug\DAO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\obj\Debug\DAO.pdb
+E:\cnpm\quanlikho\2\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\2\DAO\obj\Debug\DAO.dll
+E:\cnpm\quanlikho\2\DAO\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\2\DAO\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\2\DAO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\2\DAO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\2\DAO\obj\Debug\DAO.pdb
+C:\Users\hp\Desktop\2\DAO\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\2\DAO\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\2\DAO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\2\DAO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\2\DAO\obj\Debug\DAO.dll
+C:\Users\hp\Desktop\2\DAO\obj\Debug\DAO.pdb
+C:\Users\hp\Desktop\2\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\cnpm\quanlikho\3\DAO\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\3\DAO\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\3\DAO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\3\DAO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\3\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\3\DAO\obj\Debug\DAO.dll
+E:\cnpm\quanlikho\3\DAO\obj\Debug\DAO.pdb

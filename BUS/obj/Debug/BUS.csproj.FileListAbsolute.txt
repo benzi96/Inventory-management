@@ -1,0 +1,54 @@
+E:\cnpm\WindowsFormsApplication1\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\WindowsFormsApplication1\BUS\bin\Debug\BUS.dll
+E:\cnpm\WindowsFormsApplication1\BUS\bin\Debug\BUS.pdb
+E:\cnpm\WindowsFormsApplication1\BUS\bin\Debug\DAO.dll
+E:\cnpm\WindowsFormsApplication1\BUS\bin\Debug\DTO.dll
+E:\cnpm\WindowsFormsApplication1\BUS\bin\Debug\DAO.pdb
+E:\cnpm\WindowsFormsApplication1\BUS\bin\Debug\DTO.pdb
+E:\cnpm\WindowsFormsApplication1\BUS\obj\Debug\BUS.dll
+E:\cnpm\WindowsFormsApplication1\BUS\obj\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\obj\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\2\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\2\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\2\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\2\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\2\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\2\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\2\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\2\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\2\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Desktop\2\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\2\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\2\BUS\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\2\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\2\BUS\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\2\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\2\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\2\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Desktop\2\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\3\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\3\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\3\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\3\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\3\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\3\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\3\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\3\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\3\BUS\obj\Debug\BUS.pdb
